@@ -1,5 +1,7 @@
 What has been done ? Updated sctk-adwaita to 0.8.0 to get shadows WORK.
 
+![](./show.png)
+
 # Egui Node Graph
 > There you have it! Now go build your next awesome node graph thing in Rust 🦀
 
